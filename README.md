@@ -41,7 +41,7 @@
 
 ---
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wbtech)](https://git.io/streak-stats)
+
 
 
 
