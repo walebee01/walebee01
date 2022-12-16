@@ -12,6 +12,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/yAGIvCiwPJn5C/giphy.gif" width="400" />
 </div>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/yAGIvCiwPJn5C/giphy.gif" width="400" />
+</div>
 
 ---
 
