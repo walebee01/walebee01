@@ -1,13 +1,11 @@
 <div align="center">
  <img src="https://media.giphy.com/media/EK24OWrJSy1GkkNu0y/giphy.gif" width="100"/> 
- [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
  </div>
 
 <div id="badges" align="center">
  <a>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
 </div>
 
 <div id="header" align="center">
