@@ -1,5 +1,6 @@
 <div align="center">
  <img src="https://media.giphy.com/media/EK24OWrJSy1GkkNu0y/giphy.gif" width="100"/> 
+ [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
  </div>
 
 <div id="badges" align="center">
